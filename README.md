@@ -10,7 +10,7 @@ My name is Ben Prescott - I'm an Analytics Practice Manager at [ConvergeOne](htt
 - [House Sale Prediction Using GCP's Vertex AI](https://www.thegradientdescent.com/regression/gcp/Google-Vertex-AI-Demo/)
 <!-- BLOG-POST-LIST:END -->
 
-<h4>💼 Projects I am currently working on and will be posted soon:</h4>
+<h4>💼 Projects to be posted soon:</h4>
 
 <!-- PROJECT-LIST:START -->
 - Mental Health in Childhood: Exploratory Analysis

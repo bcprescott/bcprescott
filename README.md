@@ -8,7 +8,7 @@ My name is Ben Prescott - I'm an Analytics Practice Manager at [ConvergeOne](htt
 <!-- BLOG-POST-LIST:START -->
 - [Peering Inside a Convolutional Neural Network](https://www.thegradientdescent.com/deeplearning/cnn/Visualizing-CNN/)
 - [House Sale Prediction Using GCP's Vertex AI](https://www.thegradientdescent.com/regression/gcp/Google-Vertex-AI-Demo/)
-- [Chest X-ray COVID-19 Classification] (https://github.com/bcprescott/MSDS/tree/main/Capstone_COVID19)
+- [Chest X-ray COVID-19 Classification](https://github.com/bcprescott/MSDS/tree/main/Capstone_COVID19)
 <!-- BLOG-POST-LIST:END -->
 
 <h4>💼 Projects to be posted soon:</h4>

@@ -1,6 +1,6 @@
 <h3>Hey everyone! 👋🤓<br><br>
 
-My name is Ben Prescott - I'm an Analytics Practice Manager at [ConvergeOne](https://www.convergeone.com/)</h3>
+My name is Ben Prescott - Practice Manager, Analytics at [ConvergeOne](https://www.convergeone.com/)</h3>
 
 <h4> <a href="https://www.linkedin.com/in/benjaminprescott/">LinkedIn</a> • <a href="https://www.thegradientdescent.com/">Blog</a>
 <h4>📕 My Latest Blog Articles and GitHub Projects:</h4>
